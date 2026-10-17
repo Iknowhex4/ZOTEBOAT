@@ -1962,12 +1962,6 @@
 		(uuid "0630da77-f151-47ff-bf07-a163ea81389d")
 	)
 	(junction
-		(at 130.81 5.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0aa3d8f1-cd30-45e4-a790-9acabc4e60c0")
-	)
-	(junction
 		(at 34.29 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1984,6 +1978,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17b6248e-1c54-475f-83f1-62739443a8b0")
+	)
+	(junction
+		(at 207.01 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "182a283a-7367-46f8-b439-311741fde43d")
 	)
 	(junction
 		(at 191.77 24.13)
@@ -2248,12 +2248,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c43e10b-6ab0-434a-a7f3-ac7dbd8a60b6")
-	)
-	(junction
-		(at 125.73 0)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f172f16-7732-4de9-a5b4-c5e435c0ee13")
 	)
 	(junction
 		(at 161.29 39.37)
@@ -2591,6 +2585,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 -45.72) (xy 176.53 -62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "042269e6-ab01-4c9c-9d2e-934701f43e8c")
+	)
+	(wire
+		(pts
 			(xy 165.1 -104.14) (xy 161.29 -104.14)
 		)
 		(stroke
@@ -2691,16 +2695,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 0) (xy 114.3 -121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13c0b6c1-c067-42a6-a410-fad119e01df1")
-	)
-	(wire
-		(pts
 			(xy 69.85 24.13) (xy 69.85 39.37)
 		)
 		(stroke
@@ -2708,16 +2702,6 @@
 			(type default)
 		)
 		(uuid "1411c12d-3ea3-4a97-82b7-b8601552fbd9")
-	)
-	(wire
-		(pts
-			(xy 153.67 5.08) (xy 130.81 5.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15f6f4d0-0e8f-41f3-8b97-65dbfa3a1219")
 	)
 	(wire
 		(pts
@@ -2861,16 +2845,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 -62.23) (xy 166.37 -45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27604742-2015-4cc2-9789-cde2b27f3225")
-	)
-	(wire
-		(pts
 			(xy 185.42 -93.98) (xy 185.42 -99.06)
 		)
 		(stroke
@@ -2881,16 +2855,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 -121.92) (xy 237.49 -121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a365447-79b4-448c-a30e-b640a16353a6")
-	)
-	(wire
-		(pts
 			(xy 186.69 80.01) (xy 201.93 80.01)
 		)
 		(stroke
@@ -2898,6 +2862,16 @@
 			(type default)
 		)
 		(uuid "2a371fb8-7d9c-4aab-b70f-632e585697f5")
+	)
+	(wire
+		(pts
+			(xy 207.01 39.37) (xy 207.01 -50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2def8271-9169-40eb-84be-64113ea43111")
 	)
 	(wire
 		(pts
@@ -3151,16 +3125,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 -62.23) (xy 166.37 -62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "442e8fa5-2be9-42a3-8573-bd5d303fb06e")
-	)
-	(wire
-		(pts
 			(xy 146.05 24.13) (xy 146.05 39.37)
 		)
 		(stroke
@@ -3348,6 +3312,16 @@
 			(type default)
 		)
 		(uuid "5e49036a-5ca0-4899-8958-b60b9626fbf4")
+	)
+	(wire
+		(pts
+			(xy 143.51 0) (xy 143.51 11.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5eb5c170-9c1c-4ef6-81bf-07ea280cd44c")
 	)
 	(wire
 		(pts
@@ -3611,6 +3585,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 -62.23) (xy 185.42 -62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "868e31d2-3ad3-4b4f-afd1-cf4bf6b272c6")
+	)
+	(wire
+		(pts
 			(xy 151.13 -45.72) (xy 151.13 -52.07)
 		)
 		(stroke
@@ -3771,6 +3755,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 11.43) (xy 237.49 11.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96e364eb-894b-41db-852b-177ec4c91949")
+	)
+	(wire
+		(pts
 			(xy 161.29 8.89) (xy 85.09 8.89)
 		)
 		(stroke
@@ -3891,6 +3885,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 -50.8) (xy 153.67 -45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a60bd03a-d88d-4842-b050-cb14bbb5b590")
+	)
+	(wire
+		(pts
 			(xy 6.35 -50.8) (xy 6.35 80.01)
 		)
 		(stroke
@@ -3951,16 +3955,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 0) (xy 125.73 0)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abca148d-6c44-4380-ae2e-031a6696ae1a")
-	)
-	(wire
-		(pts
 			(xy 165.1 -67.31) (xy 158.75 -67.31)
 		)
 		(stroke
@@ -3998,6 +3992,16 @@
 			(type default)
 		)
 		(uuid "b1860fb0-e451-4cf9-839d-49143b4d1948")
+	)
+	(wire
+		(pts
+			(xy 237.49 11.43) (xy 237.49 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b251bd2f-9710-4ac5-af11-e57e77172f04")
 	)
 	(wire
 		(pts
@@ -4281,6 +4285,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 -50.8) (xy 153.67 -50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7acf568-22db-44d5-812a-746ac322be64")
+	)
+	(wire
+		(pts
 			(xy 194.31 -99.06) (xy 194.31 -57.15)
 		)
 		(stroke
@@ -4328,16 +4342,6 @@
 			(type default)
 		)
 		(uuid "ebec3da8-24b0-4802-b482-7ea23179315a")
-	)
-	(wire
-		(pts
-			(xy 237.49 -121.92) (xy 237.49 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ebf7cbdd-fe79-4d6c-b993-0c392339b5a9")
 	)
 	(wire
 		(pts
@@ -4431,16 +4435,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 0) (xy 114.3 0)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f15b009b-49c9-471c-99df-0523f560ac34")
-	)
-	(wire
-		(pts
 			(xy 171.45 -45.72) (xy 171.45 -59.69)
 		)
 		(stroke
@@ -4451,7 +4445,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 5.08) (xy 39.37 5.08)
+			(xy 39.37 5.08) (xy 153.67 5.08)
 		)
 		(stroke
 			(width 0)
@@ -5852,166 +5846,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 151.13 -29.21 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1e6b4daa-ea5f-44b8-b08f-fa243c2bdc28")
-		(property "Reference" "SW15"
-			(at 151.13 -36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 151.13 -34.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 151.13 -29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 151.13 -29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 151.13 -29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b77a9fbb-8b9c-4291-a98c-23bb4c655e27")
-		)
-		(pin "2"
-			(uuid "cee0766b-5ea7-4a07-8c6e-1ee56b806620")
-		)
-		(instances
-			(project "ZOATBOAT"
-				(path "/172a10ad-9fb9-4cd7-8c63-31ec94f327d0"
-					(reference "SW15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 123.19 -2.54 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1f63db13-f4df-4ffa-9c02-39fa84c00652")
-		(property "Reference" "SW9"
-			(at 123.19 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 123.19 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 123.19 -2.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 -2.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 123.19 -2.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b77a9fbb-8b9c-4291-a98c-23bb4c655e28")
-		)
-		(pin "2"
-			(uuid "cee0766b-5ea7-4a07-8c6e-1ee56b806621")
-		)
-		(instances
-			(project "ZOATBOAT"
-				(path "/172a10ad-9fb9-4cd7-8c63-31ec94f327d0"
-					(reference "SW9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_45deg")
 		(at 153.67 62.23 0)
 		(unit 1)
@@ -6929,7 +6763,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 138.43 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7838,6 +7672,84 @@
 			(project "ZOATBOAT"
 				(path "/172a10ad-9fb9-4cd7-8c63-31ec94f327d0"
 					(reference "SW45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 194.31 -22.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4b391e4b-a5ee-4020-9ca1-b2dde829392c")
+		(property "Reference" "#PWR05"
+			(at 194.31 -16.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 194.31 -16.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 194.31 -22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 194.31 -22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 194.31 -22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "62e867fa-4e55-4531-bbf4-9d5501ae04d7")
+		)
+		(instances
+			(project "ZOATBOAT"
+				(path "/172a10ad-9fb9-4cd7-8c63-31ec94f327d0"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -13441,108 +13353,6 @@
 			(project "ZOATBOAT"
 				(path "/172a10ad-9fb9-4cd7-8c63-31ec94f327d0"
 					(reference "SW46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_45deg")
-		(at 128.27 2.54 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b2d8ce88-d8b8-4f99-ab53-bdfec67c7592")
-		(property "Reference" "D9"
-			(at 128.27 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_45deg"
-			(at 128.27 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
-			(at 128.27 2.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 128.27 2.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode, rotated by 45°"
-			(at 128.27 2.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 128.27 13.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 128.27 11.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "31a71488-fcd7-491e-a191-6a01e3dbc379")
-		)
-		(pin "2"
-			(uuid "1f2e3968-dc12-4acf-af10-0f6ffb1017b0")
-		)
-		(instances
-			(project "ZOATBOAT"
-				(path "/172a10ad-9fb9-4cd7-8c63-31ec94f327d0"
-					(reference "D9")
 					(unit 1)
 				)
 			)
