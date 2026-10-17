@@ -693,7 +693,7 @@
         "uuid": "172a10ad-9fb9-4cd7-8c63-31ec94f327d0"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR2,#PWR4,SW1-4,SW6-64,SW67,D1-63,D65",
     "variants": []
   },
   "sheets": [
